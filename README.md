@@ -16,4 +16,4 @@ We provide ClawGym-SynData as follows:
 
 
 ## Synthesis Pipeline
-Our Synthesis Pipeline will be released soon.
+We have released our task generation pipeline.

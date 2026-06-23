@@ -1,0 +1,108 @@
+[
+  {
+    "category": "Office and Daily Tasks",
+    "subcategories": [
+      "document writing and editing",
+      "meeting notes and summaries",
+      "table and record handling",
+      "schedule and task management",
+      "translation and text assistance"
+    ]
+  },
+  {
+    "category": "Content and External Communication",
+    "subcategories": [
+      "general content writing",
+      "marketing content planning",
+      "social content creation",
+      "SEO and page optimization",
+      "email and communication writing"
+    ]
+  },
+  {
+    "category": "Information Retrieval and Collection",
+    "subcategories": [
+      "information search and lookup",
+      "web collection and scraping",
+      "research and information synthesis",
+      "fact-checking and verification",
+      "knowledge retrieval and grounding"
+    ]
+  },
+  {
+    "category": "Analysis and Decision Support",
+    "subcategories": [
+      "data analysis and calculation",
+      "classification, ranking, and scoring",
+      "trend monitoring and detection",
+      "transaction and financial analysis",
+      "lifestyle decision support"
+    ]
+  },
+  {
+    "category": "Messaging and Collaboration",
+    "subcategories": [
+      "message and email handling",
+      "notifications, reminders, and follow-up",
+      "team collaboration and synchronization",
+      "meeting coordination and scheduling"
+    ]
+  },
+  {
+    "category": "Automation and Workflows",
+    "subcategories": [
+      "scheduled task execution",
+      "event-triggered automation",
+      "automated inspection and handling",
+      "task routing and orchestration"
+    ]
+  },
+  {
+    "category": "Software Development",
+    "subcategories": [
+      "code generation and implementation",
+      "code review and refactoring",
+      "test writing and validation",
+      "debugging and issue fixing",
+      "prototype development and delivery"
+    ]
+  },
+  {
+    "category": "Systems and Infrastructure",
+    "subcategories": [
+      "system status inspection",
+      "environment configuration and deployment",
+      "DevOps and continuous delivery",
+      "incident response and reliability",
+      "device and system control"
+    ]
+  },
+  {
+    "category": "Planning and Knowledge Organization",
+    "subcategories": [
+      "task planning and decomposition",
+      "information synthesis and summarization",
+      "solution and architecture design",
+      "curriculum and content design",
+      "memory and knowledge organization"
+    ]
+  },
+  {
+    "category": "Reasoning and Technical Problem Solving",
+    "subcategories": [
+      "mathematical and logical reasoning",
+      "scientific and engineering analysis",
+      "algorithm design and problem solving",
+      "critique, review, and judgment"
+    ]
+  },
+  {
+    "category": "Professional Domain Support",
+    "subcategories": [
+      "legal and compliance review",
+      "medical and health analysis",
+      "financial analysis and support",
+      "security and risk assessment"
+    ]
+  }
+]

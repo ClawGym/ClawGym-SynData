@@ -1,0 +1,51 @@
+[
+  {
+    "category": "Web Information Retrieval",
+    "actions": [
+      "perform search engine queries from the Internet",
+      "download and extract webpage content from the Internet",
+      "download remote resources from the Internet"
+    ]
+  },
+  {
+    "category": "File and Content Handling",
+    "actions": [
+      "read local files and extract relevant content",
+      "write structured results to local files",
+      "edit or rewrite existing local documents"
+    ]
+  },
+  {
+    "category": "System and Environment Operations",
+    "actions": [
+      "inspect files and directories"
+    ]
+  },
+  {
+    "category": "Data Extraction and Analysis",
+    "actions": [
+      "extract structured data from files or web content",
+      "filter, sort, and rank records",
+      "compute basic statistics and aggregates"
+    ]
+  },
+  {
+    "category": "Communication and Coordination",
+    "actions": [
+      "draft emails or messages",
+      "rewrite messages for tone, clarity, or brevity",
+      "prepare meeting notes or action items",
+      "compose updates, reports, or status summaries"
+    ]
+  },
+  {
+    "category": "Development and Execution",
+    "actions": [
+      "run scripts or command-line programs",
+      "inspect code or configuration files",
+      "modify code or configuration files",
+      "run tests or validation commands",
+      "analyze command output or error messages"
+    ]
+  }
+]
